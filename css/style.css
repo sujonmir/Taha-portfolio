@@ -9,6 +9,15 @@ body {
     /*margin: 0;*/
     /*overflow-x: hidden;*/
 }
+/*final touch start*/
+.my_counter,
+#portfolio,
+#testimonial,
+#li_5,
+#li_6{
+    display: none;
+}
+/*final touch end*/
 
 .active_link {
     color: #20c997 !important;
